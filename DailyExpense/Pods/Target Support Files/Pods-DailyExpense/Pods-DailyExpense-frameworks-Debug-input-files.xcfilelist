@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-DailyExpense/Pods-DailyExpense-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CZPicker/CZPicker.framework
+${BUILT_PRODUCTS_DIR}/TTGSnackbar/TTGSnackbar.framework

@@ -1,0 +1,20 @@
+PODS:
+  - CZPicker (0.4.3)
+  - TTGSnackbar (1.10.3)
+
+DEPENDENCIES:
+  - CZPicker
+  - TTGSnackbar
+
+SPEC REPOS:
+  trunk:
+    - CZPicker
+    - TTGSnackbar
+
+SPEC CHECKSUMS:
+  CZPicker: 55aa1751ea26e209814552da1a9a08cba8bbf72a
+  TTGSnackbar: 97c033600de8a9c8f4a093f25a08543a03946bcc
+
+PODFILE CHECKSUM: c68edd4eb94d2adba2427e7e41c6d6606e9165f0
+
+COCOAPODS: 1.10.0
